@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "name": "panda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksandertap/PandA.git"
+  },
+  "author": "paan und sass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksandertap/PandA/issues"
+  },
+  "homepage": "https://github.com/aleksandertap/PandA#readme",
+  "description": ""
+}
+ss
